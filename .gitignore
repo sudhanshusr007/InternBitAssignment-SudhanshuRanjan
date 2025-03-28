@@ -1,0 +1,5 @@
+.qodo
+.env
+load-test.yml
+tests
+node_modules

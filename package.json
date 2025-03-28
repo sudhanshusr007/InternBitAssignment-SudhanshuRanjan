@@ -1,0 +1,30 @@
+{
+  "name": "internbitassignment-sudhanshuranjan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhanshusr007/InternBitAssignment-SudhanshuRanjan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sudhanshusr007/InternBitAssignment-SudhanshuRanjan/issues"
+  },
+  "homepage": "https://github.com/sudhanshusr007/InternBitAssignment-SudhanshuRanjan#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "node-cache": "^5.1.2",
+    "nodemon": "^3.1.9"
+  }
+}
